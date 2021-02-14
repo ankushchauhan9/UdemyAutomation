@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb99dc5e-f7a4-4119-8427-8874c93923eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="12" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1oTL6koVgTkvkk5Kq6Ax6YrRjb6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Drivers" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ankush.chauhan\IdeaProjects\UdemyAutomation\Drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TC_Homepage_001">
+    <configuration name="C:/Users/ankush.chauhan/IdeaProjects/UdemyAutomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UdemyAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_Homepage_001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UdemyAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TC_Homepage_001" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_Homepage_001.lauchBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UdemyAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TC_Homepage_001" />
+      <option name="METHOD_NAME" value="lauchBrowser" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_Homepage_001.test (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UdemyAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TC_Homepage_001" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_Homepage_001.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UdemyAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TC_Homepage_001" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TC_Homepage_001.test" />
+      <item itemvalue="TestNG.TC_Homepage_001" />
+      <item itemvalue="TestNG.C:/Users/ankush.chauhan/IdeaProjects/UdemyAutomation/testng.xml" />
+      <item itemvalue="TestNG.TC_Homepage_001.test (2)" />
+      <item itemvalue="TestNG.TC_Homepage_001.lauchBrowser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC_Homepage_001" />
+        <item itemvalue="TestNG.C:/Users/ankush.chauhan/IdeaProjects/UdemyAutomation/testng.xml" />
+        <item itemvalue="TestNG.TC_Homepage_001.lauchBrowser" />
+        <item itemvalue="TestNG.TC_Homepage_001.test" />
+        <item itemvalue="TestNG.TC_Homepage_001.test (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb99dc5e-f7a4-4119-8427-8874c93923eb" name="Default Changelist" comment="" />
+      <created>1613305460398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613305460398</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613308054832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1613308054832" />
+    <state width="387" height="462" key="DebuggerActiveHint" timestamp="1613312897905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="387" height="462" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1613312897905" />
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1613323021544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613323021544" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1613323021544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613323021544" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1613323021544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613323021544" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1613323021544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613323021544" />
+    <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1613313066733">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613313066733" />
+    <state width="1322" height="223" key="GridCell.Tab.1.center" timestamp="1613313066733">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1613313066733" />
+    <state width="1322" height="223" key="GridCell.Tab.1.left" timestamp="1613313066733">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1613313066733" />
+    <state width="1322" height="223" key="GridCell.Tab.1.right" timestamp="1613313066733">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1613313066733" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1613308156835">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1613308156835" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/academy/BaseClass.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pageObject/HomePage.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/testCases/TC_Homepage_001.java</url>
+          <line>21</line>
+          <properties class="testCases.TC_Homepage_001" method="test">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
