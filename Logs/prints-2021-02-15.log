@@ -1,0 +1,6 @@
+16:27:24.796 [TestNG-tests-1] INFO  testCases.TC_Homepage_001 - Clicked on Login on Home page
+16:27:24.971 [TestNG-tests-1] INFO  testCases.TC_Homepage_001 - user name is entered
+16:27:25.159 [TestNG-tests-1] INFO  testCases.TC_Homepage_001 - password is entered
+16:27:25.736 [TestNG-tests-1] INFO  testCases.TC_Homepage_001 - click submit button is clicked
+16:37:10.335 [TestNG-tests-1] INFO  academy.BaseClass - chrome is executed
+16:37:15.368 [TestNG-tests-1] INFO  academy.BaseClass - Browser is initialized
