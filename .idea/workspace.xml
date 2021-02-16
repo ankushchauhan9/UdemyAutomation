@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb99dc5e-f7a4-4119-8427-8874c93923eb" name="Default Changelist" comment="" />
+    <list default="true" id="eb99dc5e-f7a4-4119-8427-8874c93923eb" name="Default Changelist" comment="new test case">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/prints-2021-02-14.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/prints-2021-02-15.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/prints.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login-2021-02-15-15-00-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login-2021-02-15-15-33-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login-2021-02-15-15-49-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login-2021-02-15-15-54-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login-2021-02-15-15-57-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login-2021-02-15-15-58-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login-2021-02-15-15-58-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login-2021-02-15-15-59-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login-2021-02-15-15-59-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login-2021-02-15-15-59-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login-2021-02-15-16-00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login-2021-02-15-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Login2021-02-15-14-59-31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utilities/DatabaseConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utilities/Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utilities/ReportConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/testCases/TC_HomePageTitle_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/testCases/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC_Homepage_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/testCases/TC_Homepage_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/BaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/homepage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/homepage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-testCases.TC_Homepage_001.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/homepage.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testCases/TC_Homepage_001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +87,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -35,13 +109,18 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1oTL6koVgTkvkk5Kq6Ax6YrRjb6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Drivers" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
@@ -50,7 +129,33 @@
       <recent name="C:\Users\ankush.chauhan\IdeaProjects\UdemyAutomation\Drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TC_Homepage_001">
+  <component name="RunManager" selected="Application.constructDemo">
+    <configuration name="constructDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.academy.constructDemo" />
+      <module name="UdemyAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.java.testCases.test" />
+      <module name="UdemyAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/ankush.chauhan/IdeaProjects/UdemyAutomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="UdemyAutomation" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -96,7 +201,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_Homepage_001.lauchBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TC_Homepage_001.Login" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="UdemyAutomation" />
       <extension name="coverage">
         <pattern>
@@ -107,61 +212,7 @@
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="testCases" />
       <option name="MAIN_CLASS_NAME" value="testCases.TC_Homepage_001" />
-      <option name="METHOD_NAME" value="lauchBrowser" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC_Homepage_001.test (2)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="UdemyAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testCases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="testCases" />
-      <option name="MAIN_CLASS_NAME" value="testCases.TC_Homepage_001" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC_Homepage_001.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="UdemyAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testCases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="testCases" />
-      <option name="MAIN_CLASS_NAME" value="testCases.TC_Homepage_001" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="METHOD_NAME" value="Login" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -196,19 +247,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.TC_Homepage_001.test" />
       <item itemvalue="TestNG.TC_Homepage_001" />
       <item itemvalue="TestNG.C:/Users/ankush.chauhan/IdeaProjects/UdemyAutomation/testng.xml" />
-      <item itemvalue="TestNG.TC_Homepage_001.test (2)" />
-      <item itemvalue="TestNG.TC_Homepage_001.lauchBrowser" />
+      <item itemvalue="TestNG.TC_Homepage_001.Login" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.constructDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TC_Homepage_001" />
+        <item itemvalue="Application.constructDemo" />
+        <item itemvalue="Application.test" />
         <item itemvalue="TestNG.C:/Users/ankush.chauhan/IdeaProjects/UdemyAutomation/testng.xml" />
-        <item itemvalue="TestNG.TC_Homepage_001.lauchBrowser" />
-        <item itemvalue="TestNG.TC_Homepage_001.test" />
-        <item itemvalue="TestNG.TC_Homepage_001.test (2)" />
+        <item itemvalue="TestNG.TC_Homepage_001.Login" />
+        <item itemvalue="TestNG.TC_Homepage_001" />
       </list>
     </recent_temporary>
   </component>
@@ -237,74 +288,124 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="new test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="new test case" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613308054832">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613388914089">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1613308054832" />
-    <state width="387" height="462" key="DebuggerActiveHint" timestamp="1613312897905">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1613388914089" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1613327535695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="387" height="462" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1613312897905" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1613323021544">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1613327535695" />
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1613382301046">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613323021544" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1613323021544">
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1613382301046" />
+    <state x="289" y="0" key="CommitChangelistDialog2" timestamp="1613472679743">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613323021544" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1613323021544">
+    <state x="289" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1613472679743" />
+    <state width="402" height="462" key="DebuggerActiveHint" timestamp="1613381154220">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613323021544" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1613323021544">
+    <state width="402" height="462" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1613381154220" />
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1613469621988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613323021544" />
-    <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1613313066733">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613469621988" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1613469621988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613313066733" />
-    <state width="1322" height="223" key="GridCell.Tab.1.center" timestamp="1613313066733">
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613469621988" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1613469621987">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1613313066733" />
-    <state width="1322" height="223" key="GridCell.Tab.1.left" timestamp="1613313066733">
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613469621987" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1613469621988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1613313066733" />
-    <state width="1322" height="223" key="GridCell.Tab.1.right" timestamp="1613313066733">
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613469621988" />
+    <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1613386101756">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1613313066733" />
+    <state width="1322" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613386101756" />
+    <state width="1322" height="223" key="GridCell.Tab.1.center" timestamp="1613386101756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1613386101756" />
+    <state width="1322" height="223" key="GridCell.Tab.1.left" timestamp="1613386101756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1613386101756" />
+    <state width="1322" height="223" key="GridCell.Tab.1.right" timestamp="1613386101756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1613386101756" />
+    <state x="213" y="23" key="Maven.ArtifactSearchDialog" timestamp="1613382197618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="23" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1613382197618" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1613308156835">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1613308156835" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1613472720784">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1613472720784" />
+    <state x="494" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613329737516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1613329737516" />
+    <state x="430" y="168" key="git4idea.merge.GitMergeDialog" timestamp="1613472895165">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="168" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1613472895165" />
+    <state x="65" y="73" key="new project wizard" timestamp="1613402037460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="73" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1613402037460" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/academy/BaseClass.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="3" />
+          <line>50</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/pageObject/HomePage.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/src/main/java/Utilities/Listeners.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/testCases/TC_Homepage_001.java</url>
-          <line>21</line>
-          <properties class="testCases.TC_Homepage_001" method="test">
+          <url>file://$PROJECT_DIR$/src/test/testCases/TC_Homepage_001.java</url>
+          <line>43</line>
+          <properties class="testCases.TC_Homepage_001">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="result.getTestClass().getRealClass().getDeclaredField(&quot;driver&quot;).get(result.getInstance())" language="JAVA" />
+        <watch expression="captureScreenshot(result.getMethod().getMethodName(), driver)" language="JAVA" />
+        <watch expression="result.getTestClass().getRealClass().getDeclaredField(&quot;driver&quot;).get(result.getInstance())" language="JAVA" />
+        <watch expression="captureScreenshot(result.getMethod().getMethodName(), driver)" language="JAVA" />
+        <watch expression="(WebDriver) result.getTestClass().getRealClass().getDeclaredField(&quot;driver&quot;).get(result.getInstance())" language="JAVA" />
+        <watch expression="result.getTestClass().getRealClass().getDeclaredField(&quot;driver&quot;)" language="JAVA" />
+        <watch expression="result.getTestClass().getRealClass().getDeclaredField(&quot;driver&quot;).get(result.getInstance())" language="JAVA" />
+        <watch expression="result.getTestClass().getRealClass().getDeclaredField(&quot;driver&quot;).get(result.getInstance())" language="JAVA" />
+        <watch expression="result.getTestClass().getRealClass().getDeclaredField(&quot;driver&quot;).get(result.getInstance())" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

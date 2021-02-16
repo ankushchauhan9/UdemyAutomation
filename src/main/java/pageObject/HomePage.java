@@ -3,18 +3,20 @@ package pageObject;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 
 public class HomePage {
 
-    WebDriver hmpdriver;
-    public HomePage(WebDriver rmdriver){
-            this.hmpdriver = rmdriver;
+    WebDriver driver;
+    public HomePage(WebDriver driver){
+            this.driver = driver;
     }
 
    private By signIn = By.cssSelector("a[href*='sign_in']");
 
 
+
     public void clickHomepageLogin(){
-         hmpdriver.findElement(signIn).click();
+         driver.findElement(signIn).click();
     }
 }

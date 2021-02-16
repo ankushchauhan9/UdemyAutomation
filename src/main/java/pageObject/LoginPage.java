@@ -5,9 +5,9 @@ import org.openqa.selenium.WebDriver;
 
 public class LoginPage {
 
-    WebDriver ldriver;
-    public LoginPage(WebDriver rdriver){
-            this.ldriver = rdriver;
+    WebDriver driver;
+    public LoginPage(WebDriver driver){
+            this.driver = driver;
     }
 
     private By userid = By.id("user_email");
@@ -15,15 +15,15 @@ public class LoginPage {
     private By loginButton = By.cssSelector("input[value='Log In']");
 
     public void setLoginUsername(String usr){
-        ldriver.findElement(userid).sendKeys(usr);
+        driver.findElement(userid).sendKeys(usr);
     }
 
     public void setLoginPassword(String pwd){
-        ldriver.findElement(password).sendKeys(pwd);
+        driver.findElement(password).sendKeys(pwd);
     }
 
     public void clickLoginButton(){
-        ldriver.findElement(loginButton).click();
+        driver.findElement(loginButton).click();
     }
 
 
