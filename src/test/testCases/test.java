@@ -25,6 +25,9 @@ public class test {
 
     public static void main(String args[]){
 
+        System.out.println("hello");
+        System.out.println("Goodbye");
+        System.out.println("Good nyt");
         test t1 = new test();
         t1.setAge(20);
         t1.setName("john");
