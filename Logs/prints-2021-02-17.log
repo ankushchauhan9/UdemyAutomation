@@ -1,0 +1,6 @@
+20:32:28.678 [TestNG-tests-1] INFO  main.java.academy.BaseClass - edge is executed
+20:34:07.895 [TestNG-tests-1] INFO  main.java.academy.BaseClass - edge is executed
+20:34:13.205 [TestNG-tests-1] INFO  main.java.academy.BaseClass - Browser is initialized
+20:34:18.963 [TestNG-tests-1] INFO  main.java.academy.BaseClass - edge is executed
+20:34:23.921 [TestNG-tests-1] INFO  test.java.testCases.TC_Homepage_001 - Browser is initialized
+20:34:27.556 [TestNG-tests-1] INFO  test.java.testCases.TC_Homepage_001 - Clicked on Login on Home page

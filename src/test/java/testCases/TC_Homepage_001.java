@@ -1,6 +1,6 @@
-package test.testCases;
+package test.java.testCases;
 
-import academy.BaseClass;
+import main.java.academy.BaseClass;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -11,19 +11,21 @@ import org.testng.annotations.Test;
 import pageObject.HomePage;
 import pageObject.LoginPage;
 
+import java.io.IOException;
+
 public class TC_Homepage_001 extends BaseClass {
 
     public Logger log = LogManager.getLogger(TC_Homepage_001.class.getName());
     public WebDriver driver;
 
     @BeforeTest
-    public void lauchBrowser(){
+    public void lauchBrowser() throws IOException {
         driver = initializeDriver();
         log.info("Browser is initialized");
     }
 
     @Test
-    public void Login(){
+    public void Login() throws IOException {
         HomePage hp = new HomePage(driver);
         hp.clickHomepageLogin();
         log.info("Clicked on Login on Home page");
@@ -59,9 +61,11 @@ public class TC_Homepage_001 extends BaseClass {
     }
 */
 
+
     @AfterTest
     public void close(){
         driver.close();
     }
+
 
 }

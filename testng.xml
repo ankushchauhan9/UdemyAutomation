@@ -3,14 +3,11 @@
 
 <suite name="All Test Suite" parallel="tests">
     <listeners>
-        <listener class-name="Utilities.Listeners"></listener>
+        <listener class-name="main.java.Utilities.Listeners"></listener>
     </listeners>
     <test verbose="2" preserve-order="true" name="homepage">
         <classes>
-            <class name="test.testCases.TC_Homepage_001">
-            <methods><include name="Login"/></methods>
-        </class>
-            <class name="test.testCases.TC_HomePageTitle_002"></class>
+           <class name="test.java.testCases.TC_Offer_Test_003"></class>
         </classes>
     </test>
 </suite>

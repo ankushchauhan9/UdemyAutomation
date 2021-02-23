@@ -1,0 +1,6 @@
+20:34:28.439 [TestNG-tests-1] INFO  test.java.testCases.TC_Homepage_001 - user name is entered
+20:34:29.359 [TestNG-tests-1] INFO  test.java.testCases.TC_Homepage_001 - password is entered
+20:34:30.254 [TestNG-tests-1] INFO  test.java.testCases.TC_Homepage_001 - click submit button is clicked
+18:40:49.406 [TestNG-tests-1] INFO  main.java.academy.BaseClass - chrome is executed
+18:42:27.780 [TestNG-tests-1] INFO  main.java.academy.BaseClass - chrome is executed
+18:43:41.448 [TestNG-tests-1] INFO  main.java.academy.BaseClass - chrome is executed
